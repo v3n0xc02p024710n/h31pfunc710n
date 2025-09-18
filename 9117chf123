@@ -1,2 +1,2 @@
-search=C0 3F 00 00 00 3F 00 00 80 3F 00 00 00 40 CD CC CC 3D 01 00 00 00 CD CC CC 3D 01
-replace=00 00 00 00 00 3F 00 00 80 3F 00 00
+search=70 41 01 00 00 00 00 00 c0 3f 00 00 00 3f 00 00 80 3f 00 00 00 40 cd cc cc 3d 01 00 00 00 cd cc cc 3d 01
+replace=70 41 01 00 00 00 00 00 c0 39 00 00 00 3f 00 00 80 3f 00 00 00 40 cd cc cc 3d 01 00 00 00 cd cc cc 3d 01
