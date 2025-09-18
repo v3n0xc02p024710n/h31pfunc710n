@@ -1,2 +1,2 @@
-search=00 0a 81 ee 10 0a 10 ee 10 8c bd e8 00 00 7a 44 f0 48 2d e9 10 b0 8d e2 02 8b 2d ed 08 d0 4d e2 00 50 a0 e1 10 1a 08 ee 08 40 95 e5 00 00 54 e3
-replace=00 0a 81 ee 10 0a 10 ee 10 8c bd e8 00 00 a1
+search=ee 10 8c bd e8 00 00 7a 44 f0 48 2d e9 10 b0 8d e2 02 8b 2d ed 08 d0 4d e2 00
+replace=ee 10 8c bd e8 00 00 a1 44 f0 48 2d e9 10 b0 8d e2 02 8b 2d ed 08 d0 4d e2 00
